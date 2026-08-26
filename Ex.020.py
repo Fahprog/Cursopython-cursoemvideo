@@ -12,3 +12,5 @@ s2 = random.choice(l)
 s3 = random.choice(l)
 
 print("O resultado do sorteio é: {}, {}, {}, {}." .format(s, s1, s2 ,s3))
+
+#Comando shuflle, para embaralhar a lista
